@@ -1,0 +1,9 @@
+The following dependencies were used:
+
+torch, torchvision: Model building and training
+numpy: Numerical operations
+matplotlib, seaborn: Visualization and plots
+pandas: Tabular analysis and ablation studies
+scikit-learn: Confusion matrix and classification metrics
+
+All libraries are standard and widely supported.
